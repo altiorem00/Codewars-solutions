@@ -1,1 +1,1 @@
-# Make-a-spiral.
+# Codewars-solutions
